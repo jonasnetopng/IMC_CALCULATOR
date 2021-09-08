@@ -1,7 +1,15 @@
 # IMC_CALCULATOR
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
+1. If you don't have a expo install with
+   ```sh
+   npm install --global expo-cli
+   ```
+2. Clone the repo
+   ```sh
+   git clone https://github.com/jonasnetopng/IMC_CALCULATOR.git
+   ```
+3. Install NPM packages
+   ```sh
+   npm install / yarn
+   ```
+4. Be happy
